@@ -1,13 +1,7 @@
 # analise_CarteiraDeAtivos
 # Análise de uma carteira de ativos utilizando uma API e criação de um dataframe.
 
-Ativos analisados
+[Ativos Analisados]
 
- Ativos  Tipo  Qtde
-0   MGLU3  Ação  1000
-1   BBDC4  Ação   500
-2   ENEV3  Ação   300
-3  VILG11   FII  1000
-4  KNRI11   FII   600
-5  XPLG11   FII  1000
-
+![carteira_ativos](https://user-images.githubusercontent.com/43080297/175110280-83fd54af-5709-4197-9233-72f3134cf5df.JPG)
+![carteira_normalizada](https://user-images.githubusercontent.com/43080297/175110358-4f9d142e-8de3-425b-add7-27354b2150b1.JPG)
